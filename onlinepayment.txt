@@ -1,1 +1,5 @@
    #adding the online payment method for easy money transfer
+
+   - fast to pay
+   - easy to pay
+  
